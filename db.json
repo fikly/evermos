@@ -133,26 +133,7 @@
           "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/88319ea8-0ac4-4edb-bef1-4aed6096edb0"
         }
       ],
-      "variants": [
-        {
-          "code": "white",
-          "label": "Putih",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/e211403b-6dfb-4b3b-a337-d893f64f92fc"
-            }
-          ]
-        },
-        {
-          "code": "grey",
-          "label": "Abu",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/88319ea8-0ac4-4edb-bef1-4aed6096edb0"
-            }
-          ]
-        }
-      ]
+      "variants": []
     },
     {
       "id": 5,
@@ -165,50 +146,7 @@
           "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/9996dee3-bdca-4b1a-ae34-3546b29eb309"
         }
       ],
-      "variants": [
-        {
-          "code": "grey",
-          "label": "Abu",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/53abc302-b46e-49a5-ab50-5f7f1aeecf70"
-            },
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/816e8533-6795-4005-bdc5-8e2daec09a56"
-            },
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/9c238fb4-8d6d-49da-928f-81777c56764c"
-            }
-          ]
-        },
-        {
-          "code": "denim",
-          "label": "Denim",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/fe800854-4c6f-493f-b64b-cd2ddb95021c"
-            },
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/7463492f-0ee2-47fe-97f1-e94f8684737f"
-            }
-          ]
-        },
-        {
-          "code": "dustypink",
-          "label": "Dusty Pink",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/033c8b36-1b96-4279-b87c-3686a008f12a"
-            },
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/2bb64ca1-4640-404c-a3b6-f2820f7b9476"
-            },
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/23aa4dbc-83b4-40f8-b630-8b212b95cdb2"
-            }
-          ]
-        }
-      ]
+      "variants": []
     },
     {
       "id": 6,
@@ -221,35 +159,7 @@
           "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/8c2578c7-acc0-4619-b113-e5a83553e76d"
         }
       ],
-      "variants": [
-        {
-          "code": "bluecaramel",
-          "label": "Blue Caramel",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/f842de01-8fbc-4d90-99e3-d2d678407478"
-            }
-          ]
-        },
-        {
-          "code": "goldviolet",
-          "label": "Gold Violet",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/11190dee-2512-4c05-9c44-62275498b1a5"
-            }
-          ]
-        },
-        {
-          "code": "orientalnude",
-          "label": "Oriental Nude",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/a994d290-658d-4de1-99d3-1b6fc7186627"
-            }
-          ]
-        }
-      ]
+      "variants": []
     }
   ]
 }
