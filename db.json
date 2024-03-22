@@ -12,34 +12,9 @@
         },
         {
           "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/d71ed115-eb20-474e-84d5-a5a254bd7293"
-        },
-        {
-          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/0119fb4e-4d7b-4c1e-8fed-71474315868d"
-        },
-        {
-          "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/88319ea8-0ac4-4edb-bef1-4aed6096edb0"
         }
       ],
-      "variants": [
-        {
-          "code": "white",
-          "label": "Putih",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/e211403b-6dfb-4b3b-a337-d893f64f92fc"
-            }
-          ]
-        },
-        {
-          "code": "grey",
-          "label": "Abu",
-          "images": [
-            {
-              "image_url": "https://assets.evermos.com/public/original/q:100/evermos-production/product/model/88319ea8-0ac4-4edb-bef1-4aed6096edb0"
-            }
-          ]
-        }
-      ]
+      "variants": []
     },
     {
       "id": 2,
